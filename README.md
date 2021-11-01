@@ -1,7 +1,6 @@
 ### Hi there 👋🤖💫
 
-<!--
-**dutchand/dutchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on developing cybersecurity skills as a driver for economic growth in developing countries.
 
@@ -19,4 +18,5 @@
                       Credly: https://www.credly.com/users/dustin-fraser.12082036/badges
 - ⚡ Fun fact: Hablo español, así que siéntete libre de conectarte.
 
--->
+
+**dutchand/dutchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
