@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on developing cybersecurity skills as a driver for economic growth in developing countries.
+- 🔭 I’m currently working on cybersecurity skills as a driver for economic growth in developing countries.
 
 - 🌱 I’m currently learning how to conduct mixed methods research as I advance current research and work. 
 
