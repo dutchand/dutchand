@@ -19,4 +19,4 @@
 - ⚡ Fun fact: Hablo español, así que siéntete libre de conectarte.
 
 
-**dutchand/dutchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dutchand/dutchand** is a ✨ _special_ ✨ outlier.
