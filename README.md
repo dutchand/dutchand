@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋🤖💫
 
 <!--
 **dutchand/dutchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on developing cybersecurity skills as a driver for economic growth in developing countries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning how to conduct mixed methods research as I advance current research and work. 
+
+- 👯 I’m looking to collaborate on big data and cybersecurity analytics systems. 
+
+- 🤔 I’m looking for help with developing AI models for anomaly and fraud detection. 
+
+- 💬 Ask me about analytics, cybersecurity, software engineering, programming, reverse engineering, or relevant topics. 
+
+- 📫 How to reach me: 
+                      LinkedIn: https://www.linkedin.com/in/dustinfraser/
+                      Website: https://1gcyber.com
+                      Credly: https://www.credly.com/users/dustin-fraser.12082036/badges
+- ⚡ Fun fact: Hablo español, así que siéntete libre de conectarte.
+
 -->
