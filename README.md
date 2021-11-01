@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on big data and cybersecurity analytics systems. 
 
-- 🤔 I’m looking for help with developing AI models for anomaly and fraud detection. 
+- 🤔 I’m looking for help with developing AI models for anomaly and fraud detection. In addition, developing neural networks for occupation data.
 
 - 💬 Ask me about analytics, cybersecurity, software engineering, programming, reverse engineering, or relevant topics. 
 
