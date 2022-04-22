@@ -18,5 +18,6 @@
                       Credly: https://www.credly.com/users/dustin-fraser.12082036/badges
 - ⚡ Fun fact: Hablo español, así que siéntete libre de conectarte.
 
+Research: Cybersecurity skills can be an engine of economic growth in developing countries.
 
 **dutchand/dutchand** is a ✨ _special_ ✨ outlier.
