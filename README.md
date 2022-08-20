@@ -13,7 +13,7 @@
 - 💬 Ask me about analytics, cybersecurity, software engineering, programming, reverse engineering, or relevant topics. 
 
 - 📫 How to reach me: 
-                      LinkedIn: https://www.linkedin.com/in/dustinfraser/
+                      LinkedIn: https://www.linkedin.com/in/drdustinfraser/
                       Website: https://1gcyber.com
                       Credly: https://www.credly.com/users/dustin-fraser.12082036/badges
 - ⚡ Fun fact: Hablo español, así que siéntete libre de conectarte.
