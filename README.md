@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m completed my research on cybersecurity skills as a driver for economic growth in developing countries. I hope these countries find works valuable to advancing national capabilities. 
+- 🔭 I completed my research on cybersecurity skills as a driver for economic growth in developing countries. I hope these countries find works valuable to advancing national capabilities. 
 
 - $$$ I'm currently working on a 2nd pHd - cybersecurity in financial institutions. 
 
