@@ -4,7 +4,7 @@
 
 - 🔭 I completed my research on cybersecurity skills as a driver for economic growth in developing countries. I hope these countries find works valuable to advancing national capabilities. 
 
-- $$$ I'm currently working on a 2nd pHd - cybersecurity in financial institutions. 
+- $$$ I'm currently working on a 2nd phd - cybersecurity in financial institutions. https://www.linkedin.com/pulse/financial-cybersecurity-assessing-critical-cost-fraser-casp-sscp/
 
 - 🌱 I’m currently learning how to conduct mixed methods research as I advance current research and work. 
 
@@ -14,10 +14,13 @@
 
 - 💬 Ask me about analytics, cybersecurity, software engineering, programming, reverse engineering, or relevant topics. 
 
+- 👋 Recently got a financial institution SOC 2 Type 2 for a complex trading platform in 30 days - using the three lined defense model and ITGC as lenses to test and remediate controls.  
+
 - 📫 How to reach me: 
                       LinkedIn: https://www.linkedin.com/in/drdustinfraser/
                       Website: https://1gcyber.com
                       Credly: https://www.credly.com/users/dustin-fraser.12082036/badges
+                      
 - ⚡ Fun fact: Hablo español, así que siéntete libre de conectarte.
 
 Research: Cybersecurity skills can be an engine of economic growth in developing countries.
