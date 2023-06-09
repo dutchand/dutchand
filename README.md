@@ -19,7 +19,7 @@
 - 📫 How to reach me: 
                       LinkedIn: https://www.linkedin.com/in/drdustinfraser/
                       Website: https://1gcyber.com
-                      Credly: https://www.credly.com/users/dustin-fraser.12082036/badges
+                      Credly: https://www.credly.com/users/dr-dustin-fraser/badges
                       
 - ⚡ Fun fact: Hablo español, así que siéntete libre de conectarte.
 
