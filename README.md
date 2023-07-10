@@ -37,4 +37,10 @@
 
 ![image](https://user-images.githubusercontent.com/6117230/185746630-d76af0d3-de4e-4b85-9fd2-7261c548fb81.png)
 
+
+Advanced AI real estate tools that provide significant advantages in the property market
+
+![image](https://github.com/dutchand/dutchand/assets/6117230/fd29570f-6387-40bd-b618-2c4c22a61352)
+
+
 ✨ _special_ ✨ 
